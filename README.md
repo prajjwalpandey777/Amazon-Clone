@@ -41,6 +41,8 @@ A responsive Amazon homepage clone built using **HTML5 and CSS3**.
 * Add product pages
 * Add login/signup UI
 
+🔗 Live Demo: https://prajjwalpandey777.github.io/Amazon-Clone
+
 ## 🙌 Author
 
 Prajjwal Pandey
